@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeszyfrowanieRSA", "DeszyfrowanieRSA\DeszyfrowanieRSA.vcxproj", "{01536513-75A4-4728-ACA9-721561CE97EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01536513-75A4-4728-ACA9-721561CE97EA}.Debug|x64.ActiveCfg = Debug|x64
+		{01536513-75A4-4728-ACA9-721561CE97EA}.Debug|x64.Build.0 = Debug|x64
+		{01536513-75A4-4728-ACA9-721561CE97EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{01536513-75A4-4728-ACA9-721561CE97EA}.Debug|x86.Build.0 = Debug|Win32
+		{01536513-75A4-4728-ACA9-721561CE97EA}.Release|x64.ActiveCfg = Release|x64
+		{01536513-75A4-4728-ACA9-721561CE97EA}.Release|x64.Build.0 = Release|x64
+		{01536513-75A4-4728-ACA9-721561CE97EA}.Release|x86.ActiveCfg = Release|Win32
+		{01536513-75A4-4728-ACA9-721561CE97EA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDD1C8A5-BC97-40C8-A9A8-1B00913F8BCC}
+	EndGlobalSection
+EndGlobal
